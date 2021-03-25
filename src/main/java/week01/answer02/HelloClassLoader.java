@@ -1,4 +1,4 @@
-package week01.answer2;
+package week01.answer02;
 
 import java.io.InputStream;
 
