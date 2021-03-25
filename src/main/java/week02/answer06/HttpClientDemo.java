@@ -10,7 +10,7 @@ import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @Author：zhi-junl
+ * @Author：zhi-jun
  * @Date：2021/03/25
  */
 public class HttpClientDemo {

@@ -2,6 +2,10 @@ package week01.answer02;
 
 import java.io.InputStream;
 
+/**
+ * @Author：zhi-jun
+ * @Date：2021/03/19
+ */
 public class HelloClassLoader extends ClassLoader {
     public static void main(String[] args) throws Exception {
         Class<?> clazz = new HelloClassLoader().findClass("Hello");
